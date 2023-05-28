@@ -1,0 +1,1323 @@
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+E:\iti-9month\Web API\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\iti-9month\Web API\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+E:\Projects\EcommerceWebSit\Yostina Awny\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+E:\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+E:\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+E:\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+E:\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+E:\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+E:\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+E:\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+E:\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+E:\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+E:\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+E:\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+E:\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Prahim\Downloads\WepApi\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Badr store\OneDrive\Desktop\WepApi\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WepApi\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+F:\WepApi\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Electronica Care\Desktop\dayOne\dayOne\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Electronica Care\Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Prahim\Downloads\Telegram Desktop\Final_WepApi\Final_WepApi\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Badr store\OneDrive\Desktop\zzzzz\NNNNN\dayOne\bin\Debug\net7.0\dayOne.staticwebassets.runtime.json
+D:\Angular\dayOne\bin\Debug\net7.0\appsettings.Development.json
+D:\Angular\dayOne\bin\Debug\net7.0\appsettings.json
+D:\Angular\dayOne\bin\Debug\net7.0\dayOne.exe
+D:\Angular\dayOne\bin\Debug\net7.0\dayOne.staticwebassets.runtime.json
+D:\Angular\dayOne\bin\Debug\net7.0\dayOne.deps.json
+D:\Angular\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+D:\Angular\dayOne\bin\Debug\net7.0\dayOne.dll
+D:\Angular\dayOne\bin\Debug\net7.0\dayOne.pdb
+D:\Angular\dayOne\bin\Debug\net7.0\Azure.Core.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Humanizer.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Angular\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+D:\Angular\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+D:\Angular\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.dll
+D:\Angular\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.pdb
+D:\Angular\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+D:\Angular\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\appsettings.Development.json
+F:\AngularAPI\dayOne\bin\Debug\net7.0\appsettings.json
+F:\AngularAPI\dayOne\bin\Debug\net7.0\dayOne.staticwebassets.runtime.json
+F:\AngularAPI\dayOne\bin\Debug\net7.0\dayOne.exe
+F:\AngularAPI\dayOne\bin\Debug\net7.0\dayOne.deps.json
+F:\AngularAPI\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+F:\AngularAPI\dayOne\bin\Debug\net7.0\dayOne.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\dayOne.pdb
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Azure.Core.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Humanizer.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AngularAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+F:\AngularAPI\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+F:\AngularAPI\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.dll
+F:\AngularAPI\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.pdb
+F:\AngularAPI\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+F:\AngularAPI\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\appsettings.json
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.staticwebassets.runtime.json
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.exe
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.deps.json
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.pdb
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.dll
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.pdb
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+E:\Projects\AngularWebAPI\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\appsettings.Development.json
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\appsettings.json
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.staticwebassets.runtime.json
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.exe
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.deps.json
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.pdb
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Azure.Core.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Humanizer.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.dll
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.pdb
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+E:\AngularWebAPI\dayOne\obj\Debug\net7.0\ref\dayOne.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\appsettings.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.staticwebassets.runtime.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.exe
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.deps.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.runtimeconfig.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\dayOne.pdb
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.AssemblyReference.cache
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfoInputs.cache
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.AssemblyInfo.cs
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CoreCompileInputs.cache
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.dayOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.build.dayOne.props
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dayOne.props
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dayOne.props
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\scopedcss\bundle\dayOne.styles.css
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.csproj.CopyComplete
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\refint\dayOne.dll
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.pdb
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\dayOne.genruntimeconfig.cache
+C:\Users\Prahim\OneDrive - Assuit University - Staff\Desktop\AngularWebAPI\dayOne\obj\Debug\net7.0\ref\dayOne.dll
